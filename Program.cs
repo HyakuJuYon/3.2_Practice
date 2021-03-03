@@ -20,6 +20,18 @@ namespace _3._2Practice
 
             Console.WriteLine("\u007e");
 
+            Console.WriteLine(true);
+
+            Console.WriteLine(false);
+
+            Console.WriteLine(114);
+
+            Console.WriteLine(1.14);
+
+            Console.WriteLine(0xe);
+
+            Console.WriteLine(0b1010100);
+
             Console.ReadKey();
         }
     }
