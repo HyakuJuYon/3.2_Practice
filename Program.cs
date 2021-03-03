@@ -14,6 +14,12 @@ namespace _3._2Practice
 
             Console.WriteLine("\t I'm old \n \t and I have a beard.");
 
+            Console.WriteLine("\u0040");
+
+            Console.WriteLine("\u0023");
+
+            Console.WriteLine("\u007e");
+
             Console.ReadKey();
         }
     }
