@@ -10,9 +10,9 @@ namespace _3._2Practice
 
             Console.WriteLine(MyName);
             
-            Console.WriteLine("Hello World!");
-            
-            Console.WriteLine("I'm old and I have a beard.")
+            Console.WriteLine("\t Hello World!");
+
+            Console.WriteLine("\t I'm old \n \t and I have a beard.");
 
             Console.ReadKey();
         }
